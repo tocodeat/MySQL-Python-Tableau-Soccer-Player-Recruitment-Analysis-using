@@ -13,3 +13,4 @@ The following publicly available data will be used: https://www.kaggle.com/datas
 ## Database & tools:
 MySQL, Python, Tableau
 
+'DesignDocument' in the parent folder contains methodology
